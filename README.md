@@ -1,4 +1,4 @@
-# storeforminecraft.github.io
+# docs.storeforminecraft.com
 본 레포지토리는 Store for Minecraft 서비스의 이용약관, 설치 가이드라인을 제공합니다.
 master 브랜치에 업로드 되는 경우 바로 웹에 배포되기 때문에, draft 브랜치에 선 업로드 하시기 바랍니다.
 
