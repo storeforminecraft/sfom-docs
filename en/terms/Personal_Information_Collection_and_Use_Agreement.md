@@ -1,6 +1,6 @@
 # Personal Information Collection and Use Agreement (Required)
 
-Monivillanz (https://storeforminecraft.com or ‘Store for Minecraft’) are collecting datas according to the followings, and would like to let users know about it before using the service.
+MadebyCompany (https://storeforminecraft.com or ‘Store for Minecraft’) are collecting datas according to the followings, and would like to let users know about it before using the service.
 
 1. List of collected personal informations
 

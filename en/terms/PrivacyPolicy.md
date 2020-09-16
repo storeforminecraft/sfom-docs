@@ -112,7 +112,7 @@ Users of the rights, duties, and methods of exercise of the information subject 
 
      Position : CEO
 
-     Contact : +82 10-4469-7449, manager@storeforminecraft.com
+     Contact : +82 10-4811-9233, manager@storeforminecraft.com
 
      
 
@@ -122,7 +122,7 @@ Users of the rights, duties, and methods of exercise of the information subject 
 
      Person in charge : Kwon-hoo Rho
 
-     Contact : +82 10-4469-7449, manager@storeforminecraft.com
+     Contact : +82 10-4811-9233, manager@storeforminecraft.com
 
      
 
@@ -132,7 +132,7 @@ Users of the rights, duties, and methods of exercise of the information subject 
 
 ## 9. Change of privacy policy
 
-This Privacy Policy will be applied from the effective date, and if there is any additional, deletion or correction of the changes in accordance with the statutes and policies, the change will be notified within seven days before the change is implemented.
+This Privacy Policy will be applied from September 20, 2020, and if there is any additional, deletion or correction of the changes in accordance with the statutes and policies, the change will be notified within seven days before the change is implemented.
 
 
 
