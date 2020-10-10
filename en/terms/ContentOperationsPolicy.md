@@ -75,7 +75,7 @@ Uploader who find contents restriction is unfair may request action by sending a
 ## 3. About this terms and conditions
 
 1. All users who use the service through these terms and conditions when uploading content are regarded to have understood and agreed to these terms and conditions.
-2. All users who doesn't understand or who has any questions with these terms and conditions, can mail to mcpestoremanagement@gmail.com and recieve an official description within 72 hours.
+2. All users who doesn't understand or who has any questions with these terms and conditions, can mail to manager@storeforminecraft.com and recieve an official description within 72 hours.
 3. Users should notify admin to help out solving problems that terms and conditions cannot define.
 4. Company will do one's best to protect the rights and interests of all users who agree to and comply with these terms and conditions.
 5. These terms and conditions can be found in settings of the application.
