@@ -17,7 +17,7 @@ MadebyCompany (https://storeforminecraft.com or ‘Store for Minecraft’) is pr
 1. 'Store for Minecraft' collects personal information from an information subject, and the personal information is processed and retained within the period of personal information possession and use that is agreed to or in accordance with the Act.
 
 2. Specific period of processing and retaining personal information follows the following.
-   * Customer management : Until service contract or cancellation of membership
+   * Customer management : Until one month after the termination of the service use contract or membership. Provided, That in the case of sanctioned members, the e-mail address and unique identifier of the device shall be until the end of the sanction period.
 
 
 
@@ -30,6 +30,14 @@ MadebyCompany (https://storeforminecraft.com or ‘Store for Minecraft’) is pr
      ​	Consignee (the trustee) : Google Asia Pacific Pte. Ltd.
 
      ​	Contents of consignment tasks: Service database operation
+
+     ​	Period of consignment : destroy without delay
+
+   * Send Announcement Mail :
+
+     ​	Consignee (the trustee) : Amazon Web Services Korea LLC., Samjung Data Service Inc.
+
+     ​	Contents of consignment tasks: By proxy for sending e-mails with legal obligations, such as destruction of personal information
 
      ​	Period of consignment : destroy without delay
 
@@ -132,7 +140,7 @@ Users of the rights, duties, and methods of exercise of the information subject 
 
 ## 9. Change of privacy policy
 
-This Privacy Policy will be applied from September 20, 2020, and if there is any additional, deletion or correction of the changes in accordance with the statutes and policies, the change will be notified within seven days before the change is implemented.
+This Privacy Policy will be applied from June 22, 2021, and if there is any additional, deletion or correction of the changes in accordance with the statutes and policies, the change will be notified within seven days before the change is implemented.
 
 
 

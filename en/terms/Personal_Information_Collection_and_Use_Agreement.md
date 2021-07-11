@@ -31,7 +31,7 @@ MadebyCompany (https://storeforminecraft.com or ‘Store for Minecraft’) are c
 3. Reciptient's period of retention and use of personal information
 
    * Personal information will be deleted month after the withdrawal application. 
-   * However, restricted member's e-mail addresses will be stored untill restriction period ends.
+   * However, restricted member's e-mail addresses and device unique identifier will be stored untill restriction period ends.
 
 
 
