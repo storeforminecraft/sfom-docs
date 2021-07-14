@@ -26,6 +26,8 @@
 
 ## 3. 다운로드 된 자료 찾기
 
+다운로드 파일 경로가 **/Downloads (다운로드 폴더)/SFOMDownload** 로 변경되었으니 참고하시기 바랍니다.
+
 <img src="guide_installation_addon_ko.assets/0.png" alt="0" style="zoom:25%;" />
 
 **"Main Storage"**를 클릭하세요.

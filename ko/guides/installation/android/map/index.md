@@ -48,6 +48,8 @@ Store for Minecraft에 업로드 된 대부분의 맵의 자료는 **자동설�
 
 ## 3. 다운로드 된 자료 찾기
 
+다운로드 파일 경로가 **/Downloads (다운로드 폴더)/SFOMDownload** 로 변경되었으니 참고하시기 바랍니다.
+
 <img src="guide_installation_map_ko.assets/0.png" alt="0" style="zoom:25%;" />
 
 **"Main Storage"**를 누르세요.
