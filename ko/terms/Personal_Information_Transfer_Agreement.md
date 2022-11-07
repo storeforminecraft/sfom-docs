@@ -22,7 +22,6 @@
 ###### 3. 개인정보를 이전 받는 자의 정보
 
 - 이전 받는 자 : Google Asia Pacific Pte. Ltd.
-- 주소 : 70 Pasir Panjang Road, #03-71, Mapletree Business City II Singapore 117371
 - 연락처 : +65-65218000
 
 ###### 4. 개인정보를 이전 받는 자의 이용 목적
