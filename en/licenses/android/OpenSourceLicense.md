@@ -342,7 +342,7 @@ limitations under the License.
 
  
 
-## Apache Licenses
+## Firebase
 
 ```
    Apache License
