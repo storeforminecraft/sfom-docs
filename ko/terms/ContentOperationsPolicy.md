@@ -1,6 +1,6 @@
-# Store for Minecraft 콘텐츠 운영 정책
+﻿# Store for Minecraft 콘텐츠 운영 정책
 
-메이드바이컴퍼니("회사")는 쾌적한 Store for Minecraft의 원활한 콘텐츠 관리를 위해 다음과 같이 운영하고 있습니다.
+타임데스크("회사")는 쾌적한 Store for Minecraft의 원활한 콘텐츠 관리를 위해 다음과 같이 운영하고 있습니다.
 
 # 1. 콘텐츠 심사
 

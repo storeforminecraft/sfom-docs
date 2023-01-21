@@ -1,6 +1,6 @@
-# Personal Information Collection and Use Agreement (Required)
+﻿# Personal Information Collection and Use Agreement (Required)
 
-MadebyCompany (https://storeforminecraft.com or ‘Store for Minecraft’) are collecting datas according to the followings, and would like to let users know about it before using the service.
+Thymedesk (https://storeforminecraft.com or ‘Store for Minecraft’) are collecting datas according to the followings, and would like to let users know about it before using the service.
 
 1. List of collected personal informations
 

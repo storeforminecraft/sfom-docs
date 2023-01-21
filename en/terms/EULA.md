@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-This End-User License Agreement ("EULA") is a legal agreement between user ("Users") and MadebyCompany ("Company").
+This End-User License Agreement ("EULA") is a legal agreement between user ("Users") and Thymedesk ("Company").
 
 This EULA agreement corresponds to all versions of application "Store for Minecraft"("Service") provided from Google Play Store and http://storeforminecraft.com.
 

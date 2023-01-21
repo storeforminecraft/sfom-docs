@@ -1,6 +1,6 @@
-# Personal Information Transfer Agreement (Required)
+﻿# Personal Information Transfer Agreement (Required)
 
-MadebyCompany (https://storeforminecraft.com or ‘Store for Minecraft’) is transferring following datas to another countries to operate the service.
+Thymedesk (https://storeforminecraft.com or ‘Store for Minecraft’) is transferring following datas to another countries to operate the service.
 
 1. List of transferred personal informations
 

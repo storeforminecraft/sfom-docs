@@ -1,6 +1,6 @@
 # Store for Minecraft : Content Operations Policy
 
-"Store for Mincraft" is a service provided by MadebyCompany ("Company", "We"). We are managing our contents accoring to the followings in way to operate Store for Mincraft smooth and clean.
+"Store for Mincraft" is a service provided by Thymedesk ("Company", "We"). We are managing our contents accoring to the followings in way to operate Store for Mincraft smooth and clean.
 
 
 

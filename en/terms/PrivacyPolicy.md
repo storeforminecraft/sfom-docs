@@ -1,8 +1,8 @@
-# Store for Minecraft : Privacy Policy
+﻿# Store for Minecraft : Privacy Policy
 
 ## 1. Purpose of processing personal information
 
-MadebyCompany (https://storeforminecraft.com or ‘Store for Minecraft’) is processing personal informations for the following purposes, and do not use for any other purpose.
+Thymedesk (https://storeforminecraft.com or ‘Store for Minecraft’) is processing personal informations for the following purposes, and do not use for any other purpose.
 
 - Confirming customer intent
 - Confirming and identifying the provision of the service
@@ -116,11 +116,11 @@ Users of the rights, duties, and methods of exercise of the information subject 
 
    * Personal information protection officer
 
-     Name : Kwon-hoo Rho
+     Name : Gyeongrok Kim
 
-     Position : CEO
+     Position : Manager
 
-     Contact : +82 10-4811-9233, manager@storeforminecraft.com
+     Contact : +82 10-4684-1248, manager@thymedesk.com
 
      
 
@@ -128,10 +128,9 @@ Users of the rights, duties, and methods of exercise of the information subject 
 
      Office name : 'Store for Mincraft' operation team
 
-     Person in charge : Kwon-hoo Rho
+     Person in charge : Gyeongrok Kim
 
-     Contact : +82 10-4811-9233, manager@storeforminecraft.com
-
+     Contact : +82 10-4684-1248, manager@thymedesk.com
      
 
 2. Anyone who is subjected with information can ask any inquiries regarding personal information protection, complaint handling, damage relief, or more that happened while using 'Store for Minecraft' to personal information protection office or officer.
@@ -140,7 +139,7 @@ Users of the rights, duties, and methods of exercise of the information subject 
 
 ## 9. Change of privacy policy
 
-This Privacy Policy will be applied from June 22, 2021, and if there is any additional, deletion or correction of the changes in accordance with the statutes and policies, the change will be notified within seven days before the change is implemented.
+This Privacy Policy will be applied from Jan 20, 2023, and if there is any additional, deletion or correction of the changes in accordance with the statutes and policies, the change will be notified within seven days before the change is implemented.
 
 
 
