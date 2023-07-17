@@ -4,8 +4,6 @@
 
 이 글에서는 SFOM에서 "스킨" 자료를 다운로드 하여 사용자의 마인크래프트에 적용하는 방법을 설명합니다.
 
-자료 하단, 이미지 가이드가 첨부되어 있습니다.
-
 ## 자료 다운로드 하기
 
 1. 스폼 애플리케이션에서 "스킨" 자료를 다운로드 합니다.
@@ -29,28 +27,28 @@
 
 | 원하는                                                 | 스킨을                                                  | 다운로드!                                             |
 |-----------------------------------------------------|-----------------------------------------------------|---------------------------------------------------|
-| ![](./guide_installation_Skin_ko.assets/Skin01.png) | ![](./guide_installation_Skin_ko.assets/Skin02.PNG) | ![](./guide_installation_Skin_ko.assets/Skin03.PNG) |
+| ![](./guide_installation_skin_en.assets/Skin01.png) | ![](./guide_installation_skin_en.assets/Skin02.PNG) | ![](./guide_installation_skin_en.assets/Skin03.PNG) |
 
 | 파일 앱 ->                                           | 나의 아이폰 ->                                         | 스폼 ->                                             | 
 |---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
-| ![](./guide_installation_Skin_ko.assets/Skin04.png) | ![](./guide_installation_Skin_ko.assets/Skin05.png) | ![](./guide_installation_Skin_ko.assets/Skin06.png) | 
+| ![](./guide_installation_skin_en.assets/Skin04.png) | ![](./guide_installation_skin_en.assets/Skin05.png) | ![](./guide_installation_skin_en.assets/Skin06.png) | 
 
 | downloads ->                                      | Skin ->                                            | 컨텐츠 선택                                            |
 |---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
-| ![](./guide_installation_Skin_ko.assets/Skin07.png) | ![](./guide_installation_Skin_ko.assets/Skin08.png) | ![](./guide_installation_Skin_ko.assets/Skin09.png) |
+| ![](./guide_installation_skin_en.assets/Skin07.png) | ![](./guide_installation_skin_en.assets/Skin08.png) | ![](./guide_installation_skin_en.assets/Skin09.png) |
 
 | 공유                                                  | 이미지 저장                                              |
 |-----------------------------------------------------|-----------------------------------------------------|
-| ![](./guide_installation_Skin_ko.assets/Skin10.png) | ![](./guide_installation_Skin_ko.assets/Skin11.png) | 
+| ![](./guide_installation_skin_en.assets/Skin10.png) | ![](./guide_installation_skin_en.assets/Skin11.png) | 
 
 
 | 마인크래프트 실행 및 탈의실 이동                                  | 클래식 스킨                                              | 소유 스킨                                               |
 |-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
-| ![](./guide_installation_Skin_ko.assets/Skin12.png) | ![](./guide_installation_Skin_ko.assets/Skin13.png) | ![](./guide_installation_skin_ko.assets/Skin15.png) |
+| ![](./guide_installation_skin_en.assets/Skin12.png) | ![](./guide_installation_skin_en.assets/Skin13.png) | ![](guide_installation_skin_en.assets/Skin15.png) |
 
 | 새 스킨 선택                                             | 컨텐츠 선택                                             | 적용                                                  |
 |-----------------------------------------------------|----------------------------------------------------|-----------------------------------------------------|
-| ![](./guide_installation_Skin_ko.assets/Skin18.png) | ![](./guide_installation_Skin_ko.assets/Skin19.png) | ![](./guide_installation_Skin_ko.assets/Skin20.png) |
+| ![](./guide_installation_skin_en.assets/Skin18.png) | ![](./guide_installation_skin_en.assets/Skin19.png) | ![](./guide_installation_skin_en.assets/Skin20.png) |
 
 
 ---

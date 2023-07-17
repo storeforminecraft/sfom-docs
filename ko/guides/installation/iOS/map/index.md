@@ -4,23 +4,7 @@
 
 이 글에서는 SFOM에서 "맵" 자료를 다운로드 하여 사용자의 마인크래프트에 적용하는 방법을 설명합니다.
 
-## 이미지 가이드
-
-| 원하는                                               | 맵을                                                | 다운로드!                                             |
-|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
-| ![](./guide_installation_map_ko.assets/Map01.png) | ![](./guide_installation_map_ko.assets/Map02.PNG) | ![](./guide_installation_map_ko.assets/Map03.PNG) |
-
-| 파일 앱 ->                                           | 나의 아이폰 ->                                         | 스폼 ->                                             | 
-|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
-| ![](./guide_installation_map_ko.assets/Map04.png) | ![](./guide_installation_map_ko.assets/Map05.png) | ![](./guide_installation_map_ko.assets/Map06.png) | 
-
-| downloads ->                                      | map ->                                            | 컨텐츠 선택                                            |
-|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
-| ![](./guide_installation_map_ko.assets/Map07.png) | ![](./guide_installation_map_ko.assets/Map08.png) | ![](./guide_installation_map_ko.assets/Map09.png) |
-
-| 로딩                                                | 마인크래프트 재실행                                       | 맵 즐기기!                                            |
-|---------------------------------------------------|--------------------------------------------------|---------------------------------------------------|
-| ![](./guide_installation_map_ko.assets/Map10.png) | ![](./guide_installation_map_ko.assets/Map11.png) | ![](./guide_installation_map_ko.assets/Map12.png) |
+자료 하단, 이미지 가이드가 첨부되어 있습니다.
 
 ## 자료 다운로드 하기
 
@@ -45,6 +29,25 @@
     1. 일부 mcworld 파일의 경우 Minecraft 게임에서 가져오기가 실패하는 경우가 있습니다.
     2. 이 경우, "자료 이름.mcworld" 파일을 "자료 이름.zip" 파일로 변경합니다.
     3. "자료 설치하기 - ZIP 압축 파일의 경우" 지침을 따라 설치를 진행합니다.
+
+## 이미지 가이드
+
+| 원하는                                               | 맵을                                                | 다운로드!                                             |
+|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
+| ![](./guide_installation_map_ko.assets/Map01.png) | ![](./guide_installation_map_ko.assets/Map02.PNG) | ![](./guide_installation_map_ko.assets/Map03.PNG) |
+
+| 파일 앱 ->                                           | 나의 아이폰 ->                                         | 스폼 ->                                             | 
+|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
+| ![](./guide_installation_map_ko.assets/Map04.png) | ![](./guide_installation_map_ko.assets/Map05.png) | ![](./guide_installation_map_ko.assets/Map06.png) | 
+
+| downloads ->                                      | map ->                                            | 컨텐츠 선택                                            |
+|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
+| ![](./guide_installation_map_ko.assets/Map07.png) | ![](./guide_installation_map_ko.assets/Map08.png) | ![](./guide_installation_map_ko.assets/Map09.png) |
+
+| 로딩                                                | 마인크래프트 재실행                                       | 맵 즐기기!                                            |
+|---------------------------------------------------|--------------------------------------------------|---------------------------------------------------|
+| ![](./guide_installation_map_ko.assets/Map10.png) | ![](./guide_installation_map_ko.assets/Map11.png) | ![](./guide_installation_map_ko.assets/Map12.png) |
+
 
 ---
 
