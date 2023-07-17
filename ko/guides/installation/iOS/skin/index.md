@@ -29,28 +29,28 @@
 
 | 원하는                                                 | 스킨을                                                  | 다운로드!                                             |
 |-----------------------------------------------------|-----------------------------------------------------|---------------------------------------------------|
-| ![](./guide_installation_Skin_ko.assets/Skin01.png) | ![](./guide_installation_Skin_ko.assets/Skin02.PNG) | ![](./guide_installation_Skin_ko.assets/Skin03.PNG) |
+| <img src="guide_installation_Skin_ko.assets/Skin01.png" alt=""/> | <img src="guide_installation_Skin_ko.assets/Skin02.PNG" alt=""/> | <img src="guide_installation_Skin_ko.assets/Skin03.PNG" alt=""/> |
 
 | 파일 앱 ->                                           | 나의 아이폰 ->                                         | 스폼 ->                                             | 
 |---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
-| ![](./guide_installation_Skin_ko.assets/Skin04.png) | ![](./guide_installation_Skin_ko.assets/Skin05.png) | ![](./guide_installation_Skin_ko.assets/Skin06.png) | 
+| <img src="guide_installation_Skin_ko.assets/Skin04.png" alt=""/> | <img src="guide_installation_Skin_ko.assets/Skin05.png" alt=""/> | <img src="guide_installation_Skin_ko.assets/Skin06.png" alt=""/> | 
 
 | downloads ->                                      | Skin ->                                            | 컨텐츠 선택                                            |
 |---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
-| ![](./guide_installation_Skin_ko.assets/Skin07.png) | ![](./guide_installation_Skin_ko.assets/Skin08.png) | ![](./guide_installation_Skin_ko.assets/Skin09.png) |
+| <img src="guide_installation_Skin_ko.assets/Skin07.png" alt=""/> | <img src="guide_installation_Skin_ko.assets/Skin08.png" alt=""/> | <img src="guide_installation_Skin_ko.assets/Skin09.png" alt=""/> |
 
 | 공유                                                  | 이미지 저장                                              |
 |-----------------------------------------------------|-----------------------------------------------------|
-| ![](./guide_installation_Skin_ko.assets/Skin10.png) | ![](./guide_installation_Skin_ko.assets/Skin11.png) | 
+| <img src="guide_installation_Skin_ko.assets/Skin10.png" alt=""/> | <img src="guide_installation_Skin_ko.assets/Skin11.png" alt=""/> | 
 
 
 | 마인크래프트 실행 및 탈의실 이동                                  | 클래식 스킨                                              | 소유 스킨                                               |
 |-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
-| ![](./guide_installation_Skin_ko.assets/Skin12.png) | ![](./guide_installation_Skin_ko.assets/Skin13.png) | ![](./guide_installation_skin_ko.assets/Skin15.png) |
+| <img src="guide_installation_Skin_ko.assets/Skin12.png" alt=""/> | <img src="guide_installation_Skin_ko.assets/Skin13.png" alt=""/> | <img src="guide_installation_skin_ko.assets/Skin15.png" alt=""/> |
 
 | 새 스킨 선택                                             | 컨텐츠 선택                                             | 적용                                                  |
 |-----------------------------------------------------|----------------------------------------------------|-----------------------------------------------------|
-| ![](./guide_installation_Skin_ko.assets/Skin18.png) | ![](./guide_installation_Skin_ko.assets/Skin19.png) | ![](./guide_installation_Skin_ko.assets/Skin20.png) |
+| <img src="guide_installation_Skin_ko.assets/Skin18.png" alt=""/> | <img src="guide_installation_Skin_ko.assets/Skin19.png" alt=""/> | <img src="guide_installation_Skin_ko.assets/Skin20.png" alt=""/> |
 
 
 ---

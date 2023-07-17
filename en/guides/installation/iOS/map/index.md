@@ -32,19 +32,19 @@
 
 | 원하는                                               | 맵을                                                | 다운로드!                                             |
 |---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
-| ![](./guide_installation_map_en.assets/Map01.png) | ![](./guide_installation_map_en.assets/Map02.PNG) | ![](./guide_installation_map_en.assets/Map03.PNG) |
+| <img src="guide_installation_map_en.assets/Map01.png" alt=""/> | <img src="guide_installation_map_en.assets/Map02.PNG" alt=""/> | <img src="guide_installation_map_en.assets/Map03.PNG" alt=""/> |
 
 | 파일 앱 ->                                           | 나의 아이폰 ->                                         | 스폼 ->                                             | 
 |---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
-| ![](./guide_installation_map_en.assets/Map04.png) | ![](./guide_installation_map_en.assets/Map05.png) | ![](./guide_installation_map_en.assets/Map06.png) | 
+| <img src="guide_installation_map_en.assets/Map04.png" alt=""/> | <img src="guide_installation_map_en.assets/Map05.png" alt=""/> | <img src="guide_installation_map_en.assets/Map06.png" alt=""/> | 
 
 | downloads ->                                      | map ->                                            | 컨텐츠 선택                                            |
 |---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
-| ![](./guide_installation_map_en.assets/Map07.png) | ![](./guide_installation_map_en.assets/Map08.png) | ![](./guide_installation_map_en.assets/Map09.png) |
+| <img src="guide_installation_map_en.assets/Map07.png" alt=""/> | <img src="guide_installation_map_en.assets/Map08.png" alt=""/> | <img src="guide_installation_map_en.assets/Map09.png" alt=""/> |
 
 | 로딩                                                | 마인크래프트 재실행                                       | 맵 즐기기!                                            |
 |---------------------------------------------------|--------------------------------------------------|---------------------------------------------------|
-| ![](./guide_installation_map_en.assets/Map10.png) | ![](./guide_installation_map_en.assets/Map11.png) | ![](./guide_installation_map_en.assets/Map12.png) |
+| <img src="guide_installation_map_en.assets/Map10.png" alt=""/> | <img src="guide_installation_map_en.assets/Map11.png" alt=""/> | <img src="guide_installation_map_en.assets/Map12.png" alt=""/> |
 
 
 ---
