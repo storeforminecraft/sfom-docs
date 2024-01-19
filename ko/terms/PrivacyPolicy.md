@@ -132,13 +132,13 @@
  성명 : 김경록
  직책 : 관리자
  직급 : 관리자
- 연락처 : 010-4684-1248, manager@thymedesk.com
+ 연락처 : 010-2360-4096, manager@thymedesk.com
  ※ 개인정보 보호 담당부서로 연결됩니다.
 
  ▶ 개인정보 보호 담당부서
  부서명 : Store for Minecraft 운영팀
  담당자 : 김경록
- 연락처 : 010-4684-1248, manager@thymedesk.com
+ 연락처 : 010-2360-4096, manager@thymedesk.com
  ② 정보주체께서는 ‘Store for Minecraft’의 서비스(또는 사업)을 이용하시면서 발생한 모든 개인정보 보호 관련 문의, 불만처리, 피해구제 등에 관한 사항을 개인정보 보호책임자 및 담당부서로 문의하실 수 있습니다. ‘Store for Minecraft’는 정보주체의 문의에 대해 지체 없이 답변 및 처리해드릴 것입니다.
 
 
