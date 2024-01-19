@@ -120,7 +120,7 @@ Users of the rights, duties, and methods of exercise of the information subject 
 
      Position : Manager
 
-     Contact : +82 10-4684-1248, manager@thymedesk.com
+     Contact : +82 10-2360-4096, manager@thymedesk.com
 
      
 
@@ -130,7 +130,7 @@ Users of the rights, duties, and methods of exercise of the information subject 
 
      Person in charge : Gyeongrok Kim
 
-     Contact : +82 10-4684-1248, manager@thymedesk.com
+     Contact : +82 10-2360-4096, manager@thymedesk.com
      
 
 2. Anyone who is subjected with information can ask any inquiries regarding personal information protection, complaint handling, damage relief, or more that happened while using 'Store for Minecraft' to personal information protection office or officer.
