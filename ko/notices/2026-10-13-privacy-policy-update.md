@@ -21,7 +21,7 @@
 
 ## 개인정보처리방침 확인 및 문의
 
-[개인정보처리방침 개정안](https://github.com/storeforminecraft/sfom-docs/blob/99a4874cfc93e356989c5a56a2f6778a53259485/ko/terms/PrivacyPolicy.md)을 미리 확인하실 수 있으며, 개정된 방침은 시행일부터 [스폼 개인정보처리방침](https://github.com/storeforminecraft/sfom-docs/blob/master/ko/terms/PrivacyPolicy.md)에 반영됩니다.
+[개인정보처리방침 개정안](https://docs.storeforminecraft.com/ko/terms/PrivacyPolicy-2026-10-21.html)을 미리 확인하실 수 있으며, 개정된 방침은 시행일부터 [스폼 개인정보처리방침](https://docs.storeforminecraft.com/ko/terms/PrivacyPolicy.html)에 반영됩니다.
 
 이번 개정과 관련한 문의는 [support@storeforminecraft.com](mailto:support@storeforminecraft.com)으로 보내주시기 바랍니다.
 
