@@ -1,2 +1,24 @@
 title: null
 name: Store for Minecraft
+
+defaults:
+  - scope:
+      path: ko/terms/EULA.md
+    values:
+      layout: legal-version
+  - scope:
+      path: ko/terms/PrivacyPolicy.md
+    values:
+      layout: legal-version
+  - scope:
+      path: ko/terms/Personal_Information_Collection_and_Use_Agreement.md
+    values:
+      layout: legal-version
+  - scope:
+      path: ko/terms/Personal_Information_Transfer_Agreement.md
+    values:
+      layout: legal-version
+  - scope:
+      path: ko/terms/ContentOperationsPolicy.md
+    values:
+      layout: legal-version
