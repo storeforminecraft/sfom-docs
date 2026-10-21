@@ -74,4 +74,28 @@ test('unknown dated-policy mapping is rejected and never gains a bridge', () => 
   assert.equal(compile().status, 1);
   compare(build('unknown-owner'));
 });
+const cardinalityEdits = [
+  ['root-size-key', edited => { edited.size = owners.length; edited['ko/terms/unknown.md'] = structuredClone(edited[owners[0]]); }],
+  ['entry-size-key', edited => { edited[owners[0]].size = 6; edited[owners[0]].unexpected = 'extra'; }],
+  ['entry-extra-field', edited => { edited[owners[0]].unexpected = 'extra'; }],
+  ['root-unknown-owner', edited => { edited['ko/terms/unknown.md'] = structuredClone(edited[owners[0]]); }],
+];
+for (const [label, edit] of cardinalityEdits) {
+  test(`${label} invalidates the complete stale mapping in real Liquid`, () => {
+    writeFileSync(mapping, JSON.stringify(data));
+    const compilation = compile();
+    assert.equal(compilation.status, 0, compilation.stderr);
+    const previousInclude = readFileSync(include, 'utf8');
+    const edited = structuredClone(data);
+    edit(edited);
+    writeFileSync(mapping, JSON.stringify(edited));
+    const invalid = compile();
+    assert.equal(invalid.status, 1);
+    assert.match(invalid.stderr, /Invalid legal mapping/);
+    assert.equal(readFileSync(include, 'utf8'), previousInclude, 'rejected compilation must retain the prior valid include');
+    const dest = build(label);
+    for (const owner of owners) assert.doesNotMatch(rendered(dest, owner.replace(/\.md$/, '.html')), /<aside class="legal-version-bridge"/, `${label}: ${owner}`);
+    compare(dest);
+  });
+}
 console.log(`Jekyll fixture artifacts: ${work}`);
