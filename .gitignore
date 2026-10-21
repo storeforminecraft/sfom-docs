@@ -34,3 +34,8 @@ Temporary Items
 # iCloud generated files
 *.icloud
 
+# Local Jekyll output and caches
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
