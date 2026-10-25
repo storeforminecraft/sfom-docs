@@ -1,42 +1,42 @@
 {
   "ko/terms/EULA.md": {
-    "versionId": "sfom_WzEsIkxlZ2FsRG9jdW1lbnRWZXJzaW9uIiwiZjdjNmY3MDctNjZkZS00YjBjLWFlNjctNTA0NDFkNjVjZjUyIl0",
+    "versionId": "sfom_WzEsIkxlZ2FsRG9jdW1lbnRWZXJzaW9uIiwiYzhmYjljMDYtYjFhZC00NDBiLTgzY2EtYzgyYzVjNmNlZDcxIl0",
     "documentKey": "terms.service",
     "locale": "ko",
-    "digest": "5ba89030fd7c2339126ac0663c84470c1796ae25ac700e15c975888272624e88",
-    "approvalPacketSha256": "d1aff88bc227a77ee062a802bd0cd0e30ae9e760ae0b918d3e550b9dda9baa1b",
-    "reference": "SFOM_KO_RELEASE_20261024"
+    "digest": "066eb673a74bf27624ae5f3abbb3f4a85e3c10770fc705485c3c1a7127fd9d8b",
+    "approvalPacketSha256": "ad2862ff926e5eb1b06ff67a5999a4184202cc364f45b1371bc28a97d2f85039",
+    "reference": "SFOM_KO_REVISION_20261025"
   },
   "ko/terms/PrivacyPolicy.md": {
-    "versionId": "sfom_WzEsIkxlZ2FsRG9jdW1lbnRWZXJzaW9uIiwiODZkZGMzOTMtMTc5Yy00NTU5LTk0MTYtMGUxZmFjOGU3MjBmIl0",
+    "versionId": "sfom_WzEsIkxlZ2FsRG9jdW1lbnRWZXJzaW9uIiwiYTQ4OTMwNTktMGJjOC00YzhjLWI1ODMtODJhZGU5ZjQzNzg4Il0",
     "documentKey": "privacy.notice",
     "locale": "ko",
-    "digest": "3cc24b2d4a4d895e648b279965338c21d032585097ebc7d43501bc89bedf6da9",
-    "approvalPacketSha256": "d1aff88bc227a77ee062a802bd0cd0e30ae9e760ae0b918d3e550b9dda9baa1b",
-    "reference": "SFOM_KO_RELEASE_20261024"
+    "digest": "0c7a3bffffcf43a039bbe47a74ddcfc62aac38e341058e312921fc9f2db28682",
+    "approvalPacketSha256": "ad2862ff926e5eb1b06ff67a5999a4184202cc364f45b1371bc28a97d2f85039",
+    "reference": "SFOM_KO_REVISION_20261025"
   },
   "ko/terms/Personal_Information_Collection_and_Use_Agreement.md": {
-    "versionId": "sfom_WzEsIkxlZ2FsRG9jdW1lbnRWZXJzaW9uIiwiNTQ1N2M1MTctZDQ0Mi00OTQzLTk1YjctMzk3YjBkZDU3ZmE2Il0",
+    "versionId": "sfom_WzEsIkxlZ2FsRG9jdW1lbnRWZXJzaW9uIiwiYjM1ODUyNTMtYjZmZi00MTdiLWI0MGUtYjk2N2ZmMmU4YWIxIl0",
     "documentKey": "privacy.collection",
     "locale": "ko",
-    "digest": "7a60775f12ad3837f796b39891548ab2f1bdd59cb88b075ad8eca518c9c6ad03",
-    "approvalPacketSha256": "d1aff88bc227a77ee062a802bd0cd0e30ae9e760ae0b918d3e550b9dda9baa1b",
-    "reference": "SFOM_KO_RELEASE_20261024"
+    "digest": "4b3d3ca0efe6da247562e974b621e98dffaa23372b18d16906ef52f81cf302d1",
+    "approvalPacketSha256": "ad2862ff926e5eb1b06ff67a5999a4184202cc364f45b1371bc28a97d2f85039",
+    "reference": "SFOM_KO_REVISION_20261025"
   },
   "ko/terms/Personal_Information_Transfer_Agreement.md": {
-    "versionId": "sfom_WzEsIkxlZ2FsRG9jdW1lbnRWZXJzaW9uIiwiNmUxOGYzNjgtYjJkOC00NmU3LWExN2QtMGRjNDIyZTk0ZDllIl0",
+    "versionId": "sfom_WzEsIkxlZ2FsRG9jdW1lbnRWZXJzaW9uIiwiZDdhNjQ3MjYtYmE3ZS00MGQ5LWJlNzQtNmMzZTQ5OWI3ZTYwIl0",
     "documentKey": "privacy.overseas",
     "locale": "ko",
-    "digest": "b60c11ad2f1869cd6a9d0cd1b9c1d6966f81d1d5e1c8ed59aee702e874970b65",
-    "approvalPacketSha256": "d1aff88bc227a77ee062a802bd0cd0e30ae9e760ae0b918d3e550b9dda9baa1b",
-    "reference": "SFOM_KO_RELEASE_20261024"
+    "digest": "43c8ab396409c9ccc24d8e380a2d0ef924fe22f4a861bf45309779073d3e9416",
+    "approvalPacketSha256": "ad2862ff926e5eb1b06ff67a5999a4184202cc364f45b1371bc28a97d2f85039",
+    "reference": "SFOM_KO_REVISION_20261025"
   },
   "ko/terms/ContentOperationsPolicy.md": {
-    "versionId": "sfom_WzEsIkxlZ2FsRG9jdW1lbnRWZXJzaW9uIiwiNDcyYmRiNzYtZGZmYi00ZDdkLWIwNWItZmQ5MmM4MjQxY2FkIl0",
+    "versionId": "sfom_WzEsIkxlZ2FsRG9jdW1lbnRWZXJzaW9uIiwiMDYxZTVkNjItY2JmZS00NjczLThmNmEtNmFiZTk4OTBjMTlmIl0",
     "documentKey": "policy.content",
     "locale": "ko",
-    "digest": "099b9a45c2b342e03a89e1272f6b9d5ee5634e38ac16336ad985b5c066f3431d",
-    "approvalPacketSha256": "d1aff88bc227a77ee062a802bd0cd0e30ae9e760ae0b918d3e550b9dda9baa1b",
-    "reference": "SFOM_KO_RELEASE_20261024"
+    "digest": "511d1cea7b09e308d0b192f651ca3d72f23d6fd64a0aa0fc4be574aab878f98e",
+    "approvalPacketSha256": "ad2862ff926e5eb1b06ff67a5999a4184202cc364f45b1371bc28a97d2f85039",
+    "reference": "SFOM_KO_REVISION_20261025"
   }
 }
