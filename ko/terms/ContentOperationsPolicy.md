@@ -1,6 +1,6 @@
 ﻿# Store for Minecraft 콘텐츠 운영 정책
 
-> **약관 개정 안내:** [2026년 11월 6일 시행 문서](/ko/terms/review-2026-10-29/policy.content.html)와 [개정 공지](/ko/notices/2026-10-29-legal-policy-update.html)를 확인해 주세요. 아래에는 이전 서비스 문서를 보존합니다.
+> **약관 개정 안내:** [2026년 11월 6일 시행 문서](/ko/terms/review-2026-10-29/policy.content.html?v=20261030-2)와 [개정 공지](/ko/notices/2026-10-29-legal-policy-update.html?v=20261030-2)를 확인해 주세요. 아래에는 이전 서비스 문서를 보존합니다.
 
 타임데스크("회사")는 쾌적한 Store for Minecraft의 원활한 콘텐츠 관리를 위해 다음과 같이 운영하고 있습니다.
 

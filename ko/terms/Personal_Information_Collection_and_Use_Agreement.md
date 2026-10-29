@@ -1,6 +1,6 @@
 ﻿# 개인정보 수집 및 이용 동의서(필수)
 
-> **약관 개정 안내:** [2026년 11월 6일 시행 문서](/ko/terms/review-2026-10-29/privacy.collection.html)와 [개정 공지](/ko/notices/2026-10-29-legal-policy-update.html)를 확인해 주세요. 아래에는 이전 서비스 문서를 보존합니다.
+> **약관 개정 안내:** [2026년 11월 6일 시행 문서](/ko/terms/review-2026-10-29/privacy.collection.html?v=20261030-2)와 [개정 공지](/ko/notices/2026-10-29-legal-policy-update.html?v=20261030-2)를 확인해 주세요. 아래에는 이전 서비스 문서를 보존합니다.
 
 타임데스크는 'Store for Minecraft' 서비스를 제공함에 있어 필요한 정보를 이용자로부터 다음과 같이 수집하여 이용합니다. 본 서비스를 이용하기에 앞서 이용자에게 이를 알리고 동의를 받고자 합니다.
 
