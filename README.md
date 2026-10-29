@@ -11,12 +11,12 @@ master 브랜치에 업로드 되는 경우 바로 웹에 배포되기 때문에
 [약관 수정안](https://docs.storeforminecraft.com/ko/terms/review-2026-10-29/) / [약관 및 개인정보 처리 안내 개정](https://docs.storeforminecraft.com/ko/notices/2026-10-29-legal-policy-update.html)
 
 ### 2026. 10. 25.
-한국어 약관 5개 개정본 공개 (2026. 11. 2. 낮 12시 1분 시행 예정)
+한국어 약관 5개 개정안 작성 기록. 작성일은 이용자 공지일을 뜻하지 않으며 최종 시행일은 별도 확정.
 
 [약관 및 개인정보 처리 안내 개정](https://docs.storeforminecraft.com/ko/notices/2026-10-25-legal-policy-revision.html)
 
 ### 2026. 10. 24.
-신규 서버의 한국어 약관·개인정보 처리 안내 공개 (2026. 11. 2. 시행 예정)
+신규 서비스의 한국어 약관·개인정보 처리 안내 준비 기록.
 
 [신규 서버 약관 및 개인정보 처리 안내](https://docs.storeforminecraft.com/ko/notices/2026-10-24-new-runtime-legal-policies.html)
 
