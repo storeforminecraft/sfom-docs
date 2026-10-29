@@ -1,5 +1,7 @@
 ﻿# Store for Minecraft 개인정보처리방침
 
+> **약관 개정 안내:** [2026년 11월 6일 시행 문서](/ko/terms/review-2026-10-29/privacy.notice.html)와 [개정 공지](/ko/notices/2026-10-29-legal-policy-update.html)를 확인해 주세요. 아래에는 이전 서비스 문서를 보존합니다.
+
 **1. 개인정보의 처리 목적** 
 
 타임데스크(https://storeforminecraft.com 이하 ‘Store for Minecraft’)는 다음의 목적을 위하여 개인정보를 처리하고 있으며, 다음의 목적 이외의 용도로는 이용하지 않습니다.

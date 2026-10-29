@@ -3,6 +3,10 @@ name: Store for Minecraft
 
 defaults:
   - scope:
+      path: ko/terms/review-2026-10-29
+    values:
+      layout: legal-review
+  - scope:
       path: ko/terms/EULA.md
     values:
       layout: legal-version

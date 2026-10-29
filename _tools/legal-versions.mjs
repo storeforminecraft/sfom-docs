@@ -48,7 +48,11 @@ function compile(mapping) {
   for (const owner of selected) {
     const entry = mapping[owner];
     lines.push(`{%- when '${owner}' -%}`);
+    if (entry.reference === 'SFOM_KO_REVISION_20261025') {
+      lines.push(`<aside class="legal-version-bridge" aria-label="이전 준비 문서" data-version-id="{{ '${entry.versionId}' | escape }}" data-content-digest="{{ '${entry.digest}' | escape }}"><p><a href="{{ 'https://api.sfom.app/legal/versions/${entry.versionId}' | escape }}">이전 준비 문서 보기</a></p><p>이 링크는 개정 준비 과정의 자료입니다. 2026년 11월 6일 시행 문서는 아래 개정 안내에서 확인해 주세요.</p></aside>`);
+    } else {
     lines.push(`<aside class="legal-version-bridge" aria-label="정책 고정 버전" data-version-id="{{ '${entry.versionId}' | escape }}" data-content-digest="{{ '${entry.digest}' | escape }}"><p><a href="{{ 'https://api.sfom.app/legal/versions/${entry.versionId}' | escape }}">이 정책의 고정 버전 보기</a></p><p>연결된 버전의 게시일과 시행일을 확인할 수 있습니다. 이 페이지의 기존 본문은 아래에 계속 표시됩니다.</p><p>원문 SHA-256: <code>{{ '${entry.digest}' | escape }}</code></p></aside>`);
+    }
   }
   lines.push('{%- endcase -%}', '{%- endif -%}');
   return lines.join('\n') + '\n';
