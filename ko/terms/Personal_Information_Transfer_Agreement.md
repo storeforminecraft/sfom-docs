@@ -1,6 +1,6 @@
 ﻿# 개인정보 국외 이전 동의서(필수)
 
-> **신규 서버 개정본 안내:** [개정본 전문](/ko/terms/2026-11-revision-2/privacy.overseas.html)은 2026년 11월 2일 낮 12시 1분(한국시간)부터 시행합니다. [주요 변경사항](/ko/notices/2026-10-29-legal-policy-update.html)을 확인해 주세요. 아래에는 이전 서비스 문서를 보존합니다.
+> **앱 개편에 따른 약관 수정안:** [게시 전 수정안](/ko/terms/review-2026-10-29/privacy.overseas.html)을 검토하고 있습니다. [개편 및 변경 안내](/ko/notices/2026-10-29-legal-policy-update.html)를 확인해 주세요. 아래에는 이전 서비스 문서를 보존합니다.
 
 타임데스크는 'Store for Minecraft' 서비스를 제공함에 있어 서비스 제공을 위해 귀하의 개인정보를 다음과 같이 국외로 이전하여 처리하고자 합니다.
 

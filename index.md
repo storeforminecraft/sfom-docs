@@ -3,7 +3,7 @@
 본 사이트는 Store for Minecraft 서비스에 공개적으로 제공되는 문서들을 배포하고 있습니다.
 
 
-[한국어 약관 및 개인정보 처리 안내 전문 5개](/ko/terms/2026-11-revision-2/)
+[앱 전면 개편을 위한 약관 수정안 5개](/ko/terms/review-2026-10-29/)
 
 [주요 변경사항 및 동의 안내 (2026년 10월 29일)](/ko/notices/2026-10-29-legal-policy-update.html)
 

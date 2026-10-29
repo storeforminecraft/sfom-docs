@@ -6,9 +6,9 @@ master 브랜치에 업로드 되는 경우 바로 웹에 배포되기 때문에
 본 문서의 수정 된 점이 있다면 같은 형식으로 시간 내림차순으로 작성 부탁드립니다.
 
 ### 2026. 10. 29.
-한국어 약관 5개 개정본 전문을 Docs에 추가하고 주요 변경사항과 동의 절차 안내 작성 (기존 2026. 11. 2. 낮 12시 1분 시행 시각 유지)
+11월 2일 앱 전면 개편을 위한 약관 5개 수정안과 변경 안내 작성. 경고 및 제재 구분과 개인정보 파기 문구를 정정하고 일부 설명 윤문. 최종 내용과 시행 시각은 게시 전에 확정.
 
-[개정본 전문](https://docs.storeforminecraft.com/ko/terms/2026-11-revision-2/) / [약관 및 개인정보 처리 안내 개정](https://docs.storeforminecraft.com/ko/notices/2026-10-29-legal-policy-update.html)
+[약관 수정안](https://docs.storeforminecraft.com/ko/terms/review-2026-10-29/) / [약관 및 개인정보 처리 안내 개정](https://docs.storeforminecraft.com/ko/notices/2026-10-29-legal-policy-update.html)
 
 ### 2026. 10. 25.
 한국어 약관 5개 개정본 공개 (2026. 11. 2. 낮 12시 1분 시행 예정)
