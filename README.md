@@ -5,6 +5,11 @@ master 브랜치에 업로드 되는 경우 바로 웹에 배포되기 때문에
 ## Change Log
 본 문서의 수정 된 점이 있다면 같은 형식으로 시간 내림차순으로 작성 부탁드립니다.
 
+### 2026. 10. 30.
+공지 본문에 11월 6일 시행일을 명시하고, 기존 약관과 개정안의 차이를 쉽게 풀어 쓴 변경 설명을 추가.
+
+[변경 설명](https://docs.storeforminecraft.com/ko/terms/review-2026-10-29/changes.html) / [공지 초안](https://docs.storeforminecraft.com/ko/notices/2026-10-29-legal-policy-update.html)
+
 ### 2026. 10. 29.
 약관 5개 개정안과 변경 안내 초안 작성. 경고 및 제재 구분과 개인정보 파기 문구를 정정하고 일부 설명 윤문. 10월 30일 최종 공지를 전제로 11월 6일 시행 예정.
 
