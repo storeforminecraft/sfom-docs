@@ -29,6 +29,14 @@ test('canonical version compiles a fixed-origin link and exact mapping guards', 
   assert.ok(html.includes(`https://api.sfom.app/legal/versions/${id}`));
   assert.ok(html.includes(entry.digest));
 });
+test('October 25 preparation versions are labeled as historical material', () => {
+  const result = run({ [owner]: { ...entry, reference: 'SFOM_KO_REVISION_20261025' } }, 'compile');
+  assert.equal(result.status, 0, result.stderr);
+  const html = readFileSync(result.output, 'utf8');
+  assert.ok(html.includes('이전 준비 문서 보기'));
+  assert.ok(html.includes('2026년 11월 6일 시행 문서는 아래 개정 안내'));
+  assert.doesNotMatch(html, /이 정책의 고정 버전 보기/);
+});
 test('rejects malformed IDs, unsafe fields, mismatches and unknown owners', () => {
   const encode = value => 'sfom_' + Buffer.from(JSON.stringify(value)).toString('base64url');
   const cases = [null, [], { 'ko/terms/PrivacyPolicy-2026-10-21.md': entry }, { [owner]: null }];
