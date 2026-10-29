@@ -6,8 +6,8 @@
 
 개정으로 달라지는 내용과 각 문서의 전문은 아래에서 확인하실 수 있습니다.
 
-- [달라지는 내용 보기](https://docs.storeforminecraft.com/ko/terms/review-2026-10-29/changes.html)
-- [약관 및 개인정보 처리방침 전문 보기](https://docs.storeforminecraft.com/ko/terms/review-2026-10-29/)
+- [달라지는 내용 보기](https://docs.storeforminecraft.com/ko/terms/review-2026-10-29/changes.html?v=20261030-2)
+- [약관 및 개인정보 처리방침 전문 보기](https://docs.storeforminecraft.com/ko/terms/review-2026-10-29/?v=20261030-2)
 
 회원 기능을 이용하실 때 개정된 이용약관과 필요한 개인정보 동의 항목에 각각 동의를 받습니다. 기존 회원도 대상이며 필수 항목에 동의하지 않으면 해당 회원 기능의 이용이 제한될 수 있습니다.
 
