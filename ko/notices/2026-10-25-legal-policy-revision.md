@@ -27,3 +27,7 @@
 일반 문의와 이용 지원은 support@storeforminecraft.com으로, 약관 또는 개인정보 관련 문의와 권리 행사 요청은 manager@storeforminecraft.com으로 보내 주시기 바랍니다.
 
 [이전 공개 안내(2026년 10월 24일)](/ko/notices/2026-10-24-new-runtime-legal-policies.html)와 그 당시 문서는 이력 확인을 위해 보존합니다. 개정 문서의 시행 시각은 이 안내를 따릅니다.
+
+## Docs에서 전문 확인
+
+2026년 10월 29일 [동일 개정본 5개의 전문](/ko/terms/2026-11-revision-2/)을 Docs에도 추가했습니다. [주요 변경사항 및 동의 안내](/ko/notices/2026-10-29-legal-policy-update.html)를 함께 확인해 주세요. 위 고정 버전의 내용과 시행 시각은 같습니다.
