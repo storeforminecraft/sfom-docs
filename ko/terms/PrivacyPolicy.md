@@ -1,6 +1,6 @@
 ﻿# Store for Minecraft 개인정보처리방침
 
-> **약관 개정 안내:** [2026년 11월 6일 시행 문서](/ko/terms/review-2026-10-29/privacy.notice.html?v=20261030-2)와 [개정 공지](/ko/notices/2026-10-29-legal-policy-update.html?v=20261030-2)를 확인해 주세요. 아래에는 이전 서비스 문서를 보존합니다.
+> **약관 개정 안내:** [2026년 11월 6일 시행 문서](/ko/terms/review-2026-10-29/privacy.notice.html?v=20261030-2)와 [개정 공지](/ko/notices/2026-10-29-legal-policy-update.html?v=20261030-3)를 확인해 주세요. 아래에는 이전 서비스 문서를 보존합니다.
 
 **1. 개인정보의 처리 목적** 
 

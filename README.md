@@ -6,14 +6,16 @@ master 브랜치에 업로드 되는 경우 바로 웹에 배포되기 때문에
 본 문서의 수정 된 점이 있다면 같은 형식으로 시간 내림차순으로 작성 부탁드립니다.
 
 ### 2026. 10. 30.
+개정 공지와 주요 변경사항을 간결하게 정리하고 연결 주소를 갱신.
+
 약관 및 개인정보 관련 문서 5개와 개정 공지를 공개. 시행일은 11월 6일. 변경 설명과 서비스 이용약관 PDF를 함께 제공.
 
-[변경 설명](https://docs.storeforminecraft.com/ko/terms/review-2026-10-29/changes.html) / [개정 공지](https://docs.storeforminecraft.com/ko/notices/2026-10-29-legal-policy-update.html)
+[변경 설명](https://docs.storeforminecraft.com/ko/terms/review-2026-10-29/changes.html?v=20261030-3) / [개정 공지](https://docs.storeforminecraft.com/ko/notices/2026-10-29-legal-policy-update.html?v=20261030-3)
 
 ### 2026. 10. 29.
 약관 5개 개정안과 변경 안내 초안 작성. 경고 및 제재 구분과 개인정보 파기 문구를 정정하고 일부 설명 윤문. 10월 30일 최종 공지를 전제로 11월 6일 시행 예정.
 
-[약관 수정안](https://docs.storeforminecraft.com/ko/terms/review-2026-10-29/) / [약관 및 개인정보 처리 안내 개정](https://docs.storeforminecraft.com/ko/notices/2026-10-29-legal-policy-update.html)
+[약관 수정안](https://docs.storeforminecraft.com/ko/terms/review-2026-10-29/?v=20261030-3) / [약관 및 개인정보 처리 안내 개정](https://docs.storeforminecraft.com/ko/notices/2026-10-29-legal-policy-update.html?v=20261030-3)
 
 ### 2026. 10. 25.
 한국어 약관 5개 개정안 작성 기록. 작성일은 이용자 공지일을 뜻하지 않으며 최종 시행일은 별도 확정.
