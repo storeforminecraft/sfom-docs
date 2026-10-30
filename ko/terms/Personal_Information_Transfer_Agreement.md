@@ -1,6 +1,6 @@
 ﻿# 개인정보 국외 이전 동의서(필수)
 
-> **약관 개정 안내:** [2026년 11월 6일 시행 문서](/ko/terms/review-2026-10-29/privacy.overseas.html?v=20261030-2)와 [개정 공지](/ko/notices/2026-10-29-legal-policy-update.html?v=20261030-2)를 확인해 주세요. 아래에는 이전 서비스 문서를 보존합니다.
+> **약관 개정 안내:** [2026년 11월 6일 시행 문서](/ko/terms/review-2026-10-29/privacy.overseas.html?v=20261030-2)와 [개정 공지](/ko/notices/2026-10-29-legal-policy-update.html?v=20261030-3)를 확인해 주세요. 아래에는 이전 서비스 문서를 보존합니다.
 
 타임데스크는 'Store for Minecraft' 서비스를 제공함에 있어 서비스 제공을 위해 귀하의 개인정보를 다음과 같이 국외로 이전하여 처리하고자 합니다.
 
