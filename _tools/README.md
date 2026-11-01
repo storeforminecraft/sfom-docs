@@ -1,12 +1,12 @@
 # Legal version bridge maintenance
 
-The deployed default is inactive: `_data/legal_versions.json` is `{}` and the generated `_includes/legal-version-links.html` emits nothing. Only the five exact Korean legacy owners in `_config.yml` use `_layouts/legal-version.html`, inheriting the existing default layout. Their original Markdown stays unchanged. Existing extensionless/HTML addresses keep the current Pages behavior. The dated privacy policy, revision notice, guides and English policies have no bridge. There are no redirects, client scripts, runtime fetches or new Pages plugins.
+The five Korean legacy owners in `_config.yml` use `_layouts/legal-version.html`, inheriting the existing default layout. `_data/legal_versions.json` and its generated `_includes/legal-version-links.html` point to the separately verified server publication. An empty mapping emits no bridge. The legacy policy bodies remain on their existing pages; the bridge labels the November 6 document separately. Existing extensionless/HTML addresses keep the current Pages behavior. The dated privacy policy, revision notice, guides and English policies have no bridge. There are no redirects, client scripts, runtime fetches or new Pages plugins.
 
 ## Review and activation boundary
 
 A future activation requires a separate exact-mapping review and actual external human approval for the exact environment, publication batch, original title/body, manifest and decision. A `reference`, hash, successful compiler run or readback does **not** authenticate human approval or authorize publication. Check the external approval record independently. Do not activate drafts or infer that a version is approved because its ID is well formed.
 
-Keep the root README deployment instructions and existing revision notices. Merging to `master` deploys this site. This change supplies no real mapping, publishes no new policy and sends no notice.
+Keep the root README deployment instructions and existing revision notices. Merging to `master` deploys this site. The compiler does not publish backend policies or send notices. Updating the current mapping requires the reviewed publication data and fresh readbacks described below.
 
 The only accepted mapping keys are:
 
@@ -30,7 +30,7 @@ The offline compiler validates syntax and ownership, then produces deterministic
 
 ## Read-only verification before a separately approved activation
 
-Do not run this procedure to activate the default empty mapping. For a proposed mapping, first review its exact contents and external approval record. Use Node 24+ and an artifact directory outside this repository. The commands below read public data only; none publishes a version or edits production state. Run once for **each** mapped owner, retaining timestamped captures and the exact mapping/commit alongside the review record.
+For a proposed or replacement mapping, first review its exact contents and external authorization record. Use Node 24+ and an artifact directory outside this repository. The commands below read public data only; none publishes a version or edits production state. Run once for **each** mapped owner, retaining timestamped captures and the exact mapping/commit alongside the review record.
 
 Set `LEGAL_REVIEW_DIR` to an existing absolute artifact directory and `LEGAL_REVIEW_OWNER` to one table path. Validate a preview outside the source first:
 
