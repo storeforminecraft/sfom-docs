@@ -1,0 +1,23 @@
+# 약관 및 개인정보 처리방침
+
+2026년 10월 30일 공고한 약관과 개인정보 관련 문서입니다.
+
+**아래 문서는 2026년 11월 6일부터 시행합니다.**
+
+[약관 개정 주요 내용](changes.html?v=20261101-1)에서 이번 개정의 주요 변경사항을 확인하실 수 있습니다.
+
+| 문서 | 전문 |
+| --- | --- |
+| 서비스 이용약관 | [전문 보기](terms.service.html?v=20261101-1) |
+| 개인정보 처리방침 | [전문 보기](privacy.notice.html?v=20261101-1) |
+| 개인정보 수집 및 이용 동의서 | [전문 보기](privacy.collection.html?v=20261101-1) |
+| 개인정보 국외이전 동의서 | [전문 보기](privacy.overseas.html?v=20261101-1) |
+| 콘텐츠 운영정책 | [전문 보기](policy.content.html?v=20261101-1) |
+
+[서비스 이용약관 PDF 내려받기](/assets/legal/sfom-terms-2026-11-06.pdf?v=20261101-1)
+
+[약관 및 개인정보 처리방침 개정 안내](/ko/notices/2026-10-29-legal-policy-update.html?v=20261030-3)를 함께 확인해 주세요.
+
+일반 문의 및 이용 지원: [support@storeforminecraft.com](mailto:support@storeforminecraft.com)
+
+약관 또는 개인정보 관련 문의와 권리 행사: [manager@storeforminecraft.com](mailto:manager@storeforminecraft.com)
